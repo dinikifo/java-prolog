@@ -40,6 +40,20 @@ Each folder is intended to be runnable on its own via the included `build.sh` / 
 - **Python 3.10+** only if you want the optional IDE front-end (where included)
 - **PyQt6** only for `prolog_ide.py`
 
+## Notes
+
+-
+
+
+## AI-Assisted Creation & Provenance
+
+Some parts of this repository were created or refined with the assistance of large language models (LLMs) at the author’s direction. The author reviewed and integrated the results.
+
+The intent is to place this work as completely as possible into the public domain (see the License ).
+
+If you believe any snippet inadvertently reproduces third-party copyrighted code in a way that conflicts with the license, please open an issue with details (file, lines, source link). We will promptly rewrite or remove the material.
+
+Privacy note: Don’t paste sensitive or proprietary material into issues or pull requests; treat prompts/logs as public.
 
 ---
 
